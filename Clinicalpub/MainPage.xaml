@@ -9,13 +9,13 @@
 
 	<ContentPage.Content>
 		<StackLayout Spacing="0" BackgroundColor="Black">
-			<StackLayout Orientation="Horizontal" Spacing="0">
+			<StackLayout Orientation="Horizontal" Spacing="0" x:Name="st">
 				<Button Text="Back" HorizontalOptions="StartAndExpand" Clicked="OnBackButtonClicked"  BackgroundColor="Transparent" TextColor="White"/>
 				<Label Text="This is title" HorizontalOptions="FillAndExpand"  VerticalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" BackgroundColor="Transparent"  TextColor="White"  />
 				<Button Text="Home" HorizontalOptions="EndAndExpand" Clicked="OnForwardButtonClicked" BackgroundColor="Transparent" TextColor="Gray"/>
 			</StackLayout>
 		<!-- WebView needs to be given height and width request within layouts to render. -->
-		<WebView x:Name="webView" WidthRequest="1000" HeightRequest="1000" />
+		<WebView x:Name="webView" WidthRequest="1000" HeightRequest="1000" Navigating="webView_Navigating" />
 		</StackLayout>
 	</ContentPage.Content>
 

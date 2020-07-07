@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/T6M2nVR7PMg6tSswKZ2ALrjYXZOPxz0TRLxRUfNIRuHNXR6GgalE4ANO01xd8eMKL6LLpgIn2TCr/mO1sgRdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yingy\\Desktop\\temp\\cp\\Clinicalpub.iOS\\Clinicalpub.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yingy\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Yingy\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}

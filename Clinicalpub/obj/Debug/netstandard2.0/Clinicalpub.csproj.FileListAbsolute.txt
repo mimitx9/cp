@@ -1,0 +1,14 @@
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\bin\Debug\netstandard2.0\Clinicalpub.deps.json
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\bin\Debug\netstandard2.0\Clinicalpub.dll
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\bin\Debug\netstandard2.0\ref\Clinicalpub.dll
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\bin\Debug\netstandard2.0\Clinicalpub.pdb
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\Clinicalpub.csprojAssemblyReference.cache
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\Clinicalpub.csproj.CoreCompileInputs.cache
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\Clinicalpub.AssemblyInfoInputs.cache
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\Clinicalpub.AssemblyInfo.cs
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\Clinicalpub.dll
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\ref\Clinicalpub.dll
+C:\Users\Yingy\Desktop\temp\cp\Clinicalpub\obj\Debug\netstandard2.0\Clinicalpub.pdb

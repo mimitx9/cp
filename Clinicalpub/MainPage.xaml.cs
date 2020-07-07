@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 
@@ -17,7 +13,7 @@ namespace Clinicalpub
         public MainPage()
         {
             InitializeComponent();
-            webView.Source = "https://videdental.com";
+            webView.Source = "https://videdental.com/";
         }
 
         private async void OnBackButtonClicked(object sender, EventArgs e)
@@ -34,8 +30,19 @@ namespace Clinicalpub
 
         private void OnForwardButtonClicked(object sender, EventArgs e)
         {
-            webView.Source = "https://videdental.com";
+            webView.Source = "https://videdental.com/";
         }
 
+        private void webView_Navigating(object sender, WebNavigatingEventArgs e)
+        {
+            if (e.Url == "https://videdental.com/")
+            {
+                st.IsVisible = false;
+            }
+            else
+            {
+                st.IsVisible = true;
+            }
+        }
     }
 }
